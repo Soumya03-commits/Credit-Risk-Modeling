@@ -54,6 +54,17 @@ Financial institutions manually review large volumes of loan applications to gau
 
 ---
 
+## 🖥️ Web Application Preview
+
+<p align="center">
+  <img src="assets_streamlit_app.png" alt="Credit Risk Modeling Streamlit Application" width="900"/>
+</p>
+
+*Interactive Streamlit application for credit risk assessment and lender prioritization.*
+
+---
+
+
 ## 🛠 Tech Stack
 
 | Category | Tools |
