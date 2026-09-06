@@ -27,7 +27,6 @@ build/
 case_study1.xlsx
 case_study2.xlsx
 Unseen_Dataset.xlsx
-trained_features.csv
 unseen_data_predictions.xlsx
 
 # Local environment and editor files
