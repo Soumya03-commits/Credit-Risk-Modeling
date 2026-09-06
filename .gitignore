@@ -24,7 +24,9 @@ build/
 .streamlit/secrets.toml
 
 # Generated model and prediction artifacts
-model_bundle.joblib
+case_study1.xlsx
+case_study2.xlsx
+Unseen_Dataset.xlsx
 trained_features.csv
 unseen_data_predictions.xlsx
 
