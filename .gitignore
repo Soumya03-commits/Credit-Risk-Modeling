@@ -1,0 +1,41 @@
+# Python caches and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging and test artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+
+# Jupyter runtime files
+.ipynb_checkpoints/
+
+# Streamlit secrets and local configuration
+.streamlit/secrets.toml
+
+# Generated model and prediction artifacts
+model_bundle.joblib
+trained_features.csv
+unseen_data_predictions.xlsx
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# OS files
+.DS_Store
+Thumbs.db
