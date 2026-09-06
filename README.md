@@ -3,7 +3,6 @@
 **An end-to-end credit-risk classification system that scores loan applicants into priority tiers (P1–P4) using XGBoost, and serves live predictions through an interactive Streamlit application.**
 
 🔗 **Live App:** [creditmodeling.streamlit.app](https://creditmodeling.streamlit.app/)
-📂 **Repo:** [Soumya03-commits/Credit-Risk-Modeling](https://github.com/Soumya03-commits/Credit-Risk-Modeling)
 
 ---
 
